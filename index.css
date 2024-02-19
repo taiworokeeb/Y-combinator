@@ -103,6 +103,7 @@ header .class .main-nav li a:hover{
 .button-1{
     background-color: #FB651E;
     font-size: 2rem;
+    border: none;
     border-radius: 0.5rem;
     color: white;
     padding: 1rem;
